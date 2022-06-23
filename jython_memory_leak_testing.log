@@ -1,0 +1,414 @@
+Testing iteration: 0
+Collected garbage
+[u'D:\\Artemiy\\cache_dir\\e2587c5523df4c5ead5838dfd5d50ab5\\fused_tp_1_vs_0.tif', u'D:\\Artemiy\\cache_dir\\e2587c5523df4c5ead5838dfd5d50ab5\\fused_tp_1_vs_1.tif', u'D:\\Artemiy\\cache_dir\\e2587c5523df4c5ead5838dfd5d50ab5\\fused_tp_1_vs_2.tif', u'D:\\Artemiy\\cache_dir\\e2587c5523df4c5ead5838dfd5d50ab5\\fused_tp_1_vs_3.tif']
+('Used memory: ', 60603L)
+Testing view_converted = ops.run("convert.float32", test_view)
+Testing view_converted = ops.run("convert.float32", test_view)
+Testing view_converted = ops.run("convert.float32", test_view)
+Testing view_converted = ops.run("convert.float32", test_view)
+Testing iteration: 1
+Collected garbage
+[u'D:\\Artemiy\\cache_dir\\e2587c5523df4c5ead5838dfd5d50ab5\\fused_tp_1_vs_0.tif', u'D:\\Artemiy\\cache_dir\\e2587c5523df4c5ead5838dfd5d50ab5\\fused_tp_1_vs_1.tif', u'D:\\Artemiy\\cache_dir\\e2587c5523df4c5ead5838dfd5d50ab5\\fused_tp_1_vs_2.tif', u'D:\\Artemiy\\cache_dir\\e2587c5523df4c5ead5838dfd5d50ab5\\fused_tp_1_vs_3.tif']
+('Used memory: ', 63013L)
+Testing view_converted = ops.run("convert.float32", test_view)
+Testing view_converted = ops.run("convert.float32", test_view)
+Testing view_converted = ops.run("convert.float32", test_view)
+Testing view_converted = ops.run("convert.float32", test_view)
+Testing iteration: 2
+Collected garbage
+[u'D:\\Artemiy\\cache_dir\\e2587c5523df4c5ead5838dfd5d50ab5\\fused_tp_1_vs_0.tif', u'D:\\Artemiy\\cache_dir\\e2587c5523df4c5ead5838dfd5d50ab5\\fused_tp_1_vs_1.tif', u'D:\\Artemiy\\cache_dir\\e2587c5523df4c5ead5838dfd5d50ab5\\fused_tp_1_vs_2.tif', u'D:\\Artemiy\\cache_dir\\e2587c5523df4c5ead5838dfd5d50ab5\\fused_tp_1_vs_3.tif']
+('Used memory: ', 63502L)
+Testing view_converted = ops.run("convert.float32", test_view)
+Testing view_converted = ops.run("convert.float32", test_view)
+Testing view_converted = ops.run("convert.float32", test_view)
+Testing view_converted = ops.run("convert.float32", test_view)
+Testing iteration: 3
+Collected garbage
+[u'D:\\Artemiy\\cache_dir\\e2587c5523df4c5ead5838dfd5d50ab5\\fused_tp_1_vs_0.tif', u'D:\\Artemiy\\cache_dir\\e2587c5523df4c5ead5838dfd5d50ab5\\fused_tp_1_vs_1.tif', u'D:\\Artemiy\\cache_dir\\e2587c5523df4c5ead5838dfd5d50ab5\\fused_tp_1_vs_2.tif', u'D:\\Artemiy\\cache_dir\\e2587c5523df4c5ead5838dfd5d50ab5\\fused_tp_1_vs_3.tif']
+('Used memory: ', 64008L)
+Testing view_converted = ops.run("convert.float32", test_view)
+Testing view_converted = ops.run("convert.float32", test_view)
+Testing view_converted = ops.run("convert.float32", test_view)
+Testing view_converted = ops.run("convert.float32", test_view)
+Testing iteration: 4
+Collected garbage
+[u'D:\\Artemiy\\cache_dir\\e2587c5523df4c5ead5838dfd5d50ab5\\fused_tp_1_vs_0.tif', u'D:\\Artemiy\\cache_dir\\e2587c5523df4c5ead5838dfd5d50ab5\\fused_tp_1_vs_1.tif', u'D:\\Artemiy\\cache_dir\\e2587c5523df4c5ead5838dfd5d50ab5\\fused_tp_1_vs_2.tif', u'D:\\Artemiy\\cache_dir\\e2587c5523df4c5ead5838dfd5d50ab5\\fused_tp_1_vs_3.tif']
+('Used memory: ', 64442L)
+Testing view_converted = ops.run("convert.float32", test_view)
+Testing view_converted = ops.run("convert.float32", test_view)
+Testing view_converted = ops.run("convert.float32", test_view)
+Testing view_converted = ops.run("convert.float32", test_view)
+Testing iteration: 5
+Collected garbage
+[u'D:\\Artemiy\\cache_dir\\e2587c5523df4c5ead5838dfd5d50ab5\\fused_tp_1_vs_0.tif', u'D:\\Artemiy\\cache_dir\\e2587c5523df4c5ead5838dfd5d50ab5\\fused_tp_1_vs_1.tif', u'D:\\Artemiy\\cache_dir\\e2587c5523df4c5ead5838dfd5d50ab5\\fused_tp_1_vs_2.tif', u'D:\\Artemiy\\cache_dir\\e2587c5523df4c5ead5838dfd5d50ab5\\fused_tp_1_vs_3.tif']
+('Used memory: ', 64939L)
+Testing view_converted = ops.run("convert.float32", test_view)
+Testing view_converted = ops.run("convert.float32", test_view)
+Testing view_converted = ops.run("convert.float32", test_view)
+Testing view_converted = ops.run("convert.float32", test_view)
+Testing iteration: 6
+Collected garbage
+[u'D:\\Artemiy\\cache_dir\\e2587c5523df4c5ead5838dfd5d50ab5\\fused_tp_1_vs_0.tif', u'D:\\Artemiy\\cache_dir\\e2587c5523df4c5ead5838dfd5d50ab5\\fused_tp_1_vs_1.tif', u'D:\\Artemiy\\cache_dir\\e2587c5523df4c5ead5838dfd5d50ab5\\fused_tp_1_vs_2.tif', u'D:\\Artemiy\\cache_dir\\e2587c5523df4c5ead5838dfd5d50ab5\\fused_tp_1_vs_3.tif']
+('Used memory: ', 65437L)
+Testing view_converted = ops.run("convert.float32", test_view)
+Testing view_converted = ops.run("convert.float32", test_view)
+Testing view_converted = ops.run("convert.float32", test_view)
+Testing view_converted = ops.run("convert.float32", test_view)
+Testing iteration: 7
+Collected garbage
+[u'D:\\Artemiy\\cache_dir\\e2587c5523df4c5ead5838dfd5d50ab5\\fused_tp_1_vs_0.tif', u'D:\\Artemiy\\cache_dir\\e2587c5523df4c5ead5838dfd5d50ab5\\fused_tp_1_vs_1.tif', u'D:\\Artemiy\\cache_dir\\e2587c5523df4c5ead5838dfd5d50ab5\\fused_tp_1_vs_2.tif', u'D:\\Artemiy\\cache_dir\\e2587c5523df4c5ead5838dfd5d50ab5\\fused_tp_1_vs_3.tif']
+('Used memory: ', 65928L)
+Testing view_converted = ops.run("convert.float32", test_view)
+Testing view_converted = ops.run("convert.float32", test_view)
+Testing view_converted = ops.run("convert.float32", test_view)
+Testing view_converted = ops.run("convert.float32", test_view)
+
+Started CLIJ_deconv_fuse_memory_leak_testing.py at Thu Jun 23 12:10:14 CEST 2022
+#################################################################################
+		Starting testing memory leak.
+#################################################################################
+Testing iteration: 0
+Collected garbage
+('Used memory: ', 64475L)
+Testing IJ.run(test_view, "32-bit", "")
+Testing IJ.run(test_view, "32-bit", "")
+Testing IJ.run(test_view, "32-bit", "")
+Testing IJ.run(test_view, "32-bit", "")
+Testing iteration: 1
+Collected garbage
+('Used memory: ', 67366L)
+Testing IJ.run(test_view, "32-bit", "")
+Testing IJ.run(test_view, "32-bit", "")
+Testing IJ.run(test_view, "32-bit", "")
+Testing IJ.run(test_view, "32-bit", "")
+Testing iteration: 2
+Collected garbage
+('Used memory: ', 67369L)
+Testing IJ.run(test_view, "32-bit", "")
+Testing IJ.run(test_view, "32-bit", "")
+Testing IJ.run(test_view, "32-bit", "")
+Testing IJ.run(test_view, "32-bit", "")
+Testing iteration: 3
+Collected garbage
+('Used memory: ', 67364L)
+Testing IJ.run(test_view, "32-bit", "")
+Testing IJ.run(test_view, "32-bit", "")
+Testing IJ.run(test_view, "32-bit", "")
+Testing IJ.run(test_view, "32-bit", "")
+Testing iteration: 4
+Collected garbage
+('Used memory: ', 67380L)
+Testing IJ.run(test_view, "32-bit", "")
+Testing IJ.run(test_view, "32-bit", "")
+Testing IJ.run(test_view, "32-bit", "")
+Testing IJ.run(test_view, "32-bit", "")
+Testing iteration: 5
+Collected garbage
+('Used memory: ', 67368L)
+Testing IJ.run(test_view, "32-bit", "")
+Testing IJ.run(test_view, "32-bit", "")
+Testing IJ.run(test_view, "32-bit", "")
+Testing IJ.run(test_view, "32-bit", "")
+Testing iteration: 6
+Collected garbage
+('Used memory: ', 67338L)
+Testing IJ.run(test_view, "32-bit", "")
+Testing IJ.run(test_view, "32-bit", "")
+Testing IJ.run(test_view, "32-bit", "")
+Testing IJ.run(test_view, "32-bit", "")
+Testing iteration: 7
+Collected garbage
+('Used memory: ', 67365L)
+Testing IJ.run(test_view, "32-bit", "")
+Testing IJ.run(test_view, "32-bit", "")
+Testing IJ.run(test_view, "32-bit", "")
+Testing IJ.run(test_view, "32-bit", "")
+
+#################################################################################
+		Starting testing memory leak.
+#################################################################################
+Testing iteration: 0
+Collected garbage
+Used memory growth per iteration: -8067 Mb
+Used memory growth total: -8067 Mb
+Testing view_converted = ops.run("convert.float32", test_view) with setting to None
+Testing view_converted = ops.run("convert.float32", test_view) with setting to None
+Testing view_converted = ops.run("convert.float32", test_view) with setting to None
+Testing view_converted = ops.run("convert.float32", test_view) with setting to None
+Testing iteration: 1
+Collected garbage
+Used memory growth per iteration: 2418 Mb
+Used memory growth total: -5649 Mb
+Testing view_converted = ops.run("convert.float32", test_view) with setting to None
+Testing view_converted = ops.run("convert.float32", test_view) with setting to None
+Testing view_converted = ops.run("convert.float32", test_view) with setting to None
+Testing view_converted = ops.run("convert.float32", test_view) with setting to None
+Testing iteration: 2
+Collected garbage
+Used memory growth per iteration: 471 Mb
+Used memory growth total: -5178 Mb
+Testing view_converted = ops.run("convert.float32", test_view) with setting to None
+Testing view_converted = ops.run("convert.float32", test_view) with setting to None
+Testing view_converted = ops.run("convert.float32", test_view) with setting to None
+Testing view_converted = ops.run("convert.float32", test_view) with setting to None
+Testing iteration: 3
+Collected garbage
+Used memory growth per iteration: 489 Mb
+Used memory growth total: -4689 Mb
+Testing view_converted = ops.run("convert.float32", test_view) with setting to None
+Testing view_converted = ops.run("convert.float32", test_view) with setting to None
+Testing view_converted = ops.run("convert.float32", test_view) with setting to None
+Testing view_converted = ops.run("convert.float32", test_view) with setting to None
+Testing iteration: 4
+Collected garbage
+Used memory growth per iteration: 490 Mb
+Used memory growth total: -4199 Mb
+Testing view_converted = ops.run("convert.float32", test_view) with setting to None
+Testing view_converted = ops.run("convert.float32", test_view) with setting to None
+Testing view_converted = ops.run("convert.float32", test_view) with setting to None
+Testing view_converted = ops.run("convert.float32", test_view) with setting to None
+Testing iteration: 5
+Collected garbage
+Used memory growth per iteration: 480 Mb
+Used memory growth total: -3719 Mb
+Testing view_converted = ops.run("convert.float32", test_view) with setting to None
+Testing view_converted = ops.run("convert.float32", test_view) with setting to None
+Testing view_converted = ops.run("convert.float32", test_view) with setting to None
+Testing view_converted = ops.run("convert.float32", test_view) with setting to None
+Testing iteration: 6
+Collected garbage
+Used memory growth per iteration: 525 Mb
+Used memory growth total: -3194 Mb
+Testing view_converted = ops.run("convert.float32", test_view) with setting to None
+Testing view_converted = ops.run("convert.float32", test_view) with setting to None
+Testing view_converted = ops.run("convert.float32", test_view) with setting to None
+Testing view_converted = ops.run("convert.float32", test_view) with setting to None
+Testing iteration: 7
+Collected garbage
+Used memory growth per iteration: 443 Mb
+Used memory growth total: -2751 Mb
+Testing view_converted = ops.run("convert.float32", test_view) with setting to None
+Testing view_converted = ops.run("convert.float32", test_view) with setting to None
+Testing view_converted = ops.run("convert.float32", test_view) with setting to None
+Testing view_converted = ops.run("convert.float32", test_view) with setting to None
+
+Started CLIJ_deconv_fuse_memory_leak_testing.py at Thu Jun 23 12:29:34 CEST 2022
+#################################################################################
+		Starting testing memory leak.
+#################################################################################
+Testing iteration: 0
+Collected garbage
+Used memory growth per iteration: 2422 Mb
+Used memory growth total: 2422 Mb
+Testing IJ.run(test_view, "32-bit", "") 
+ IJ.run(test_view, "16-bit", "")
+Testing iteration: 1
+Collected garbage
+Used memory growth per iteration: 2388 Mb
+Used memory growth total: 4810 Mb
+Testing IJ.run(test_view, "32-bit", "") 
+ IJ.run(test_view, "16-bit", "")
+Testing iteration: 2
+Collected garbage
+Used memory growth per iteration: 33 Mb
+Used memory growth total: 4843 Mb
+Testing IJ.run(test_view, "32-bit", "") 
+ IJ.run(test_view, "16-bit", "")
+Testing iteration: 3
+Collected garbage
+Used memory growth per iteration: -22 Mb
+Used memory growth total: 4821 Mb
+Testing IJ.run(test_view, "32-bit", "") 
+ IJ.run(test_view, "16-bit", "")
+Testing iteration: 4
+Collected garbage
+Used memory growth per iteration: -5 Mb
+Used memory growth total: 4816 Mb
+Testing IJ.run(test_view, "32-bit", "") 
+ IJ.run(test_view, "16-bit", "")
+Testing iteration: 5
+Collected garbage
+Used memory growth per iteration: -4 Mb
+Used memory growth total: 4812 Mb
+Testing IJ.run(test_view, "32-bit", "") 
+ IJ.run(test_view, "16-bit", "")
+Testing iteration: 6
+Collected garbage
+Used memory growth per iteration: 11 Mb
+Used memory growth total: 4823 Mb
+Testing IJ.run(test_view, "32-bit", "") 
+ IJ.run(test_view, "16-bit", "")
+Testing iteration: 7
+Collected garbage
+Used memory growth per iteration: 5 Mb
+Used memory growth total: 4828 Mb
+Testing IJ.run(test_view, "32-bit", "") 
+ IJ.run(test_view, "16-bit", "")
+Used memory growth total (after final GC): 2446 Mb
+
+#################################################################################
+		Starting testing memory leak.
+#################################################################################
+Testing iteration: 0
+Collected garbage
+Used memory growth per iteration: 2416 Mb
+Used memory growth total: 2416 Mb
+Testing out of the loop: test_views_list = [IJ.openImage(path) for path in test_views_paths]
+ IJ.run(test_view, "32-bit", "")
+Testing iteration: 1
+Collected garbage
+Used memory growth per iteration: 2407 Mb
+Used memory growth total: 4823 Mb
+Testing out of the loop: test_views_list = [IJ.openImage(path) for path in test_views_paths]
+ IJ.run(test_view, "32-bit", "")
+Testing iteration: 2
+Collected garbage
+Used memory growth per iteration: 15 Mb
+Used memory growth total: 4838 Mb
+Testing out of the loop: test_views_list = [IJ.openImage(path) for path in test_views_paths]
+ IJ.run(test_view, "32-bit", "")
+Testing iteration: 3
+Collected garbage
+Used memory growth per iteration: -9 Mb
+Used memory growth total: 4829 Mb
+Testing out of the loop: test_views_list = [IJ.openImage(path) for path in test_views_paths]
+ IJ.run(test_view, "32-bit", "")
+Testing iteration: 4
+Collected garbage
+Used memory growth per iteration: -8 Mb
+Used memory growth total: 4821 Mb
+Testing out of the loop: test_views_list = [IJ.openImage(path) for path in test_views_paths]
+ IJ.run(test_view, "32-bit", "")
+Testing iteration: 5
+Collected garbage
+Used memory growth per iteration: -2 Mb
+Used memory growth total: 4819 Mb
+Testing out of the loop: test_views_list = [IJ.openImage(path) for path in test_views_paths]
+ IJ.run(test_view, "32-bit", "")
+Testing iteration: 6
+Collected garbage
+Used memory growth per iteration: 12 Mb
+Used memory growth total: 4831 Mb
+Testing out of the loop: test_views_list = [IJ.openImage(path) for path in test_views_paths]
+ IJ.run(test_view, "32-bit", "")
+Testing iteration: 7
+Collected garbage
+Used memory growth per iteration: -6 Mb
+Used memory growth total: 4825 Mb
+Testing out of the loop: test_views_list = [IJ.openImage(path) for path in test_views_paths]
+ IJ.run(test_view, "32-bit", "")
+Used memory growth total (after final GC): 2451 Mb
+
+#################################################################################
+		Starting testing memory leak.
+#################################################################################
+Testing iteration: 0
+Collected garbage
+Used memory growth per iteration: 2421 Mb
+Used memory growth total: 2421 Mb
+Testing view_converted = ops.run('convert.float32', view) 
+ view = None 
+ views[i] = view_converted
+Testing iteration: 1
+Collected garbage
+Used memory growth per iteration: 6286 Mb
+Used memory growth total: 8707 Mb
+Testing view_converted = ops.run('convert.float32', view) 
+ view = None 
+ views[i] = view_converted
+Testing iteration: 2
+Collected garbage
+Used memory growth per iteration: 1933 Mb
+Used memory growth total: 10640 Mb
+Testing view_converted = ops.run('convert.float32', view) 
+ view = None 
+ views[i] = view_converted
+Testing iteration: 3
+Collected garbage
+Used memory growth per iteration: 1927 Mb
+Used memory growth total: 12567 Mb
+Testing view_converted = ops.run('convert.float32', view) 
+ view = None 
+ views[i] = view_converted
+Testing iteration: 4
+Collected garbage
+Used memory growth per iteration: 1902 Mb
+Used memory growth total: 14469 Mb
+Testing view_converted = ops.run('convert.float32', view) 
+ view = None 
+ views[i] = view_converted
+Testing iteration: 5
+Collected garbage
+Used memory growth per iteration: 1938 Mb
+Used memory growth total: 16407 Mb
+Testing view_converted = ops.run('convert.float32', view) 
+ view = None 
+ views[i] = view_converted
+Testing iteration: 6
+Collected garbage
+Used memory growth per iteration: 1973 Mb
+Used memory growth total: 18380 Mb
+Testing view_converted = ops.run('convert.float32', view) 
+ view = None 
+ views[i] = view_converted
+Testing iteration: 7
+Collected garbage
+Used memory growth per iteration: 1938 Mb
+Used memory growth total: 20318 Mb
+Testing view_converted = ops.run('convert.float32', view) 
+ view = None 
+ views[i] = view_converted
+Used memory growth total (after final GC): 19828 Mb
+
+#################################################################################
+		Starting testing memory leak.
+#################################################################################
+Testing iteration: 0
+Collected garbage
+Used memory growth per iteration: 2407 Mb
+Used memory growth total: 2407 Mb
+Testing out of the loop: test_views_list = [IJ.openImage(path) for path in test_views_paths]
+ IJ.run(test_view, "32-bit", "")
+Testing iteration: 1
+Collected garbage
+Used memory growth per iteration: 2414 Mb
+Used memory growth total: 4821 Mb
+Testing out of the loop: test_views_list = [IJ.openImage(path) for path in test_views_paths]
+ IJ.run(test_view, "32-bit", "")
+Testing iteration: 2
+Collected garbage
+Used memory growth per iteration: 21 Mb
+Used memory growth total: 4842 Mb
+Testing out of the loop: test_views_list = [IJ.openImage(path) for path in test_views_paths]
+ IJ.run(test_view, "32-bit", "")
+Testing iteration: 3
+Collected garbage
+Used memory growth per iteration: 17 Mb
+Used memory growth total: 4859 Mb
+Testing out of the loop: test_views_list = [IJ.openImage(path) for path in test_views_paths]
+ IJ.run(test_view, "32-bit", "")
+Testing iteration: 4
+Collected garbage
+Used memory growth per iteration: 4 Mb
+Used memory growth total: 4863 Mb
+Testing out of the loop: test_views_list = [IJ.openImage(path) for path in test_views_paths]
+ IJ.run(test_view, "32-bit", "")
+Testing iteration: 5
+Collected garbage
+Used memory growth per iteration: -39 Mb
+Used memory growth total: 4824 Mb
+Testing out of the loop: test_views_list = [IJ.openImage(path) for path in test_views_paths]
+ IJ.run(test_view, "32-bit", "")
+Testing iteration: 6
+Collected garbage
+Used memory growth per iteration: 22 Mb
+Used memory growth total: 4846 Mb
+Testing out of the loop: test_views_list = [IJ.openImage(path) for path in test_views_paths]
+ IJ.run(test_view, "32-bit", "")
+Testing iteration: 7
+Collected garbage
+Used memory growth per iteration: 5 Mb
+Used memory growth total: 4851 Mb
+Testing out of the loop: test_views_list = [IJ.openImage(path) for path in test_views_paths]
+ IJ.run(test_view, "32-bit", "")
+Used memory growth total (after final GC): 2450 Mb
